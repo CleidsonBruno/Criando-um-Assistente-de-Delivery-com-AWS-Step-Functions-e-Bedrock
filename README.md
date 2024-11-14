@@ -50,3 +50,13 @@ Este tutorial mostra como criar um Assistente de Delivery, ou seja, um sistema q
 
 ### Conclusão <a name="conclusao"></a>
 Parabéns! Você criou um Assistente de Delivery que automatiza o acompanhamento de pedidos e notifica clientes. Este exemplo pode ser expandido para outros casos de uso.
+
+
+### Links Úteis
+AWS Step Functions: https://aws.amazon.com/pt/step-functions/
+
+AWS Step Functions Examples: https://github.com/aws-samples/aws-stepfunctions-examples
+
+Serverless e Amazon Bedrock: https://aws.amazon.com/pt/blogs/aws-brasil/como-criar-um-assistente-virtual-de-baixa-latencia-com-multiplos-modelos-usando-serverless-e-amazon-bedrock/
+
+ 
